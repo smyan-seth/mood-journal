@@ -1,13 +1,15 @@
 <h1>Mood Journal</h1>
-<h3>Python program to log daily notes, mood ratings and save them locally.</h3>
-<p>This project demonstrates core programming concepts like file handling, data processing, and basic input validation, making it a practical tool for tracking emotional well-being over time.</p>
+<h3>Log daily mood entries with a rating and notes — saves everything locally to a text file.</h3>
+
+<p>Uses file handling and basic data processing to keep things simple and portable — no database, no dependencies, just Python.</p>
+
 <p><b>Features:</b></p>
 <ul>
-<li>Add daily entries</li>
-<li>Track mood (1–10 scale)</li>
-<li>Store entries in text file</li>
-<li>Get total entries</li>
-<li>Get average moods</li>
+  <li>Log daily entries with mood rating (1–10)</li>
+  <li>Add personal notes to each entry</li>
+  <li>Track total entries over time</li>
+  <li>Calculate average mood score</li>
+  <li>Persistent local storage via text file</li>
 </ul>
-<p><b>Tech Stack:</b> Python</p>
 
+<p><b>Tech Stack:</b> Python</p>
